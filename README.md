@@ -4,7 +4,7 @@ A Java-based web application that replaces traditional passwords with graphical 
 
 ---
 
-## ✨ Features
+##  Features
 
 - 👤 Graphical Sign-Up and Login
 - 🖼️ Dynamic image grid with randomization
